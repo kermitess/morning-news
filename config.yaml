@@ -1,0 +1,31 @@
+time_window: 23h
+
+feeds:
+  front_page:
+    - "https://www.rmf24.pl/fakty/feed"
+    - "https://wiadomosci.onet.pl/.feed"
+    - "https://www.polsatnews.pl/rss/wszystkie.xml"
+    - "https://news.google.com/rss/search?q=site%3Awiadomosci.wp.pl%20when%3A1d&hl=pl&gl=PL&ceid=PL%3Apl"
+    - "https://news.google.com/rss/search?q=site%3Awydarzenia.interia.pl%20when%3A1d&hl=pl&gl=PL&ceid=PL%3Apl"
+
+  poland_state:
+    - "https://tvn24.pl/wiadomosci-z-kraju,3.xml"
+    - "https://news.google.com/rss/search?q=site%3Arp.pl%20when%3A1d&hl=pl&gl=PL&ceid=PL%3Apl"
+    - "https://news.google.com/rss/search?q=site%3Atvrepublika.pl%20when%3A1d&hl=pl&gl=PL&ceid=PL%3Apl"
+
+  money_rules:
+    - "https://www.bankier.pl/rss/wiadomosci.xml"
+    - "https://businessinsider.com.pl/.feed"
+    - "https://news.google.com/rss/search?q=site%3Agazetaprawna.pl%20when%3A2d&hl=pl&gl=PL&ceid=PL%3Apl"
+    - "https://news.google.com/rss/search?q=site%3Amoney.pl%20when%3A2d&hl=pl&gl=PL&ceid=PL%3Apl"
+
+  local_warsaw:
+    - "http://rss.gazeta.pl/pub/rss/warszawa.xml"
+    - "https://news.google.com/rss/search?q=site%3Atvn24.pl%2Ftvnwarszawa%20when%3A2d&hl=pl&gl=PL&ceid=PL%3Apl"
+    - "https://news.google.com/rss/search?q=site%3Aum.warszawa.pl%20Warszawa%20when%3A7d&hl=pl&gl=PL&ceid=PL%3Apl"
+
+  world_europe:
+    - "https://feeds.bbci.co.uk/news/world/europe/rss.xml"
+    - "https://www.politico.eu/feed/"
+    - "https://notesfrompoland.com/feed/"
+    - "https://news.google.com/rss/search?q=site%3Areuters.com%2Fworld%2Feurope%20when%3A1d&hl=en&gl=GB&ceid=GB%3Aen"
